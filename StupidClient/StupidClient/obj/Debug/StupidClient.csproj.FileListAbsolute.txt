@@ -1,0 +1,5 @@
+D:\Projects\StupidClient\StupidClient\bin\Debug\StupidClient.exe.config
+D:\Projects\StupidClient\StupidClient\bin\Debug\StupidClient.exe
+D:\Projects\StupidClient\StupidClient\bin\Debug\StupidClient.pdb
+D:\Projects\StupidClient\StupidClient\obj\Debug\StupidClient.exe
+D:\Projects\StupidClient\StupidClient\obj\Debug\StupidClient.pdb

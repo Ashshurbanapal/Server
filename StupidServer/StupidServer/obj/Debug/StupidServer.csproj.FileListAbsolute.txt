@@ -1,0 +1,6 @@
+D:\Projects\StupidServer\StupidServer\bin\Debug\StupidServer.exe.config
+D:\Projects\StupidServer\StupidServer\bin\Debug\StupidServer.exe
+D:\Projects\StupidServer\StupidServer\bin\Debug\StupidServer.pdb
+D:\Projects\StupidServer\StupidServer\obj\Debug\StupidServer.csprojResolveAssemblyReference.cache
+D:\Projects\StupidServer\StupidServer\obj\Debug\StupidServer.exe
+D:\Projects\StupidServer\StupidServer\obj\Debug\StupidServer.pdb
